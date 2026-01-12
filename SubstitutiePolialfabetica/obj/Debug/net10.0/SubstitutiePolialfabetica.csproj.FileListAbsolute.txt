@@ -1,0 +1,14 @@
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/bin/Debug/net10.0/SubstitutiePolialfabetica
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/bin/Debug/net10.0/SubstitutiePolialfabetica.deps.json
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/bin/Debug/net10.0/SubstitutiePolialfabetica.runtimeconfig.json
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/bin/Debug/net10.0/SubstitutiePolialfabetica.dll
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/bin/Debug/net10.0/SubstitutiePolialfabetica.pdb
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/obj/Debug/net10.0/SubstitutiePolialfabetica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/obj/Debug/net10.0/SubstitutiePolialfabetica.AssemblyInfoInputs.cache
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/obj/Debug/net10.0/SubstitutiePolialfabetica.AssemblyInfo.cs
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/obj/Debug/net10.0/SubstitutiePolialfabetica.csproj.CoreCompileInputs.cache
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/obj/Debug/net10.0/SubstitutiePolialfabetica.dll
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/obj/Debug/net10.0/refint/SubstitutiePolialfabetica.dll
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/obj/Debug/net10.0/SubstitutiePolialfabetica.pdb
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/obj/Debug/net10.0/SubstitutiePolialfabetica.genruntimeconfig.cache
+/Users/sergio/Criptografie/SubstitutiePolialfabetica/obj/Debug/net10.0/ref/SubstitutiePolialfabetica.dll
