@@ -1,0 +1,14 @@
+/Users/sergio/Criptografie/Playfair/bin/Debug/net10.0/Playfair
+/Users/sergio/Criptografie/Playfair/bin/Debug/net10.0/Playfair.deps.json
+/Users/sergio/Criptografie/Playfair/bin/Debug/net10.0/Playfair.runtimeconfig.json
+/Users/sergio/Criptografie/Playfair/bin/Debug/net10.0/Playfair.dll
+/Users/sergio/Criptografie/Playfair/bin/Debug/net10.0/Playfair.pdb
+/Users/sergio/Criptografie/Playfair/obj/Debug/net10.0/Playfair.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Criptografie/Playfair/obj/Debug/net10.0/Playfair.AssemblyInfoInputs.cache
+/Users/sergio/Criptografie/Playfair/obj/Debug/net10.0/Playfair.AssemblyInfo.cs
+/Users/sergio/Criptografie/Playfair/obj/Debug/net10.0/Playfair.csproj.CoreCompileInputs.cache
+/Users/sergio/Criptografie/Playfair/obj/Debug/net10.0/Playfair.dll
+/Users/sergio/Criptografie/Playfair/obj/Debug/net10.0/refint/Playfair.dll
+/Users/sergio/Criptografie/Playfair/obj/Debug/net10.0/Playfair.pdb
+/Users/sergio/Criptografie/Playfair/obj/Debug/net10.0/Playfair.genruntimeconfig.cache
+/Users/sergio/Criptografie/Playfair/obj/Debug/net10.0/ref/Playfair.dll
