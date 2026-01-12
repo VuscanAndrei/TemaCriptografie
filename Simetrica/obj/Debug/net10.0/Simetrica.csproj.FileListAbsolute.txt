@@ -1,0 +1,14 @@
+/Users/sergio/Criptografie/Simetrica/bin/Debug/net10.0/Simetrica
+/Users/sergio/Criptografie/Simetrica/bin/Debug/net10.0/Simetrica.deps.json
+/Users/sergio/Criptografie/Simetrica/bin/Debug/net10.0/Simetrica.runtimeconfig.json
+/Users/sergio/Criptografie/Simetrica/bin/Debug/net10.0/Simetrica.dll
+/Users/sergio/Criptografie/Simetrica/bin/Debug/net10.0/Simetrica.pdb
+/Users/sergio/Criptografie/Simetrica/obj/Debug/net10.0/Simetrica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Criptografie/Simetrica/obj/Debug/net10.0/Simetrica.AssemblyInfoInputs.cache
+/Users/sergio/Criptografie/Simetrica/obj/Debug/net10.0/Simetrica.AssemblyInfo.cs
+/Users/sergio/Criptografie/Simetrica/obj/Debug/net10.0/Simetrica.csproj.CoreCompileInputs.cache
+/Users/sergio/Criptografie/Simetrica/obj/Debug/net10.0/Simetrica.dll
+/Users/sergio/Criptografie/Simetrica/obj/Debug/net10.0/refint/Simetrica.dll
+/Users/sergio/Criptografie/Simetrica/obj/Debug/net10.0/Simetrica.pdb
+/Users/sergio/Criptografie/Simetrica/obj/Debug/net10.0/Simetrica.genruntimeconfig.cache
+/Users/sergio/Criptografie/Simetrica/obj/Debug/net10.0/ref/Simetrica.dll
