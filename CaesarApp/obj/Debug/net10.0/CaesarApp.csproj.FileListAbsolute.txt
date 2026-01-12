@@ -1,0 +1,14 @@
+/Users/sergio/Criptografie/CaesarApp/bin/Debug/net10.0/CaesarApp
+/Users/sergio/Criptografie/CaesarApp/bin/Debug/net10.0/CaesarApp.deps.json
+/Users/sergio/Criptografie/CaesarApp/bin/Debug/net10.0/CaesarApp.runtimeconfig.json
+/Users/sergio/Criptografie/CaesarApp/bin/Debug/net10.0/CaesarApp.dll
+/Users/sergio/Criptografie/CaesarApp/bin/Debug/net10.0/CaesarApp.pdb
+/Users/sergio/Criptografie/CaesarApp/obj/Debug/net10.0/CaesarApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Criptografie/CaesarApp/obj/Debug/net10.0/CaesarApp.AssemblyInfoInputs.cache
+/Users/sergio/Criptografie/CaesarApp/obj/Debug/net10.0/CaesarApp.AssemblyInfo.cs
+/Users/sergio/Criptografie/CaesarApp/obj/Debug/net10.0/CaesarApp.csproj.CoreCompileInputs.cache
+/Users/sergio/Criptografie/CaesarApp/obj/Debug/net10.0/CaesarApp.dll
+/Users/sergio/Criptografie/CaesarApp/obj/Debug/net10.0/refint/CaesarApp.dll
+/Users/sergio/Criptografie/CaesarApp/obj/Debug/net10.0/CaesarApp.pdb
+/Users/sergio/Criptografie/CaesarApp/obj/Debug/net10.0/CaesarApp.genruntimeconfig.cache
+/Users/sergio/Criptografie/CaesarApp/obj/Debug/net10.0/ref/CaesarApp.dll
