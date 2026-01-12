@@ -1,0 +1,14 @@
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/bin/Debug/net10.0/SubstitutieMonoaflabetic
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/bin/Debug/net10.0/SubstitutieMonoaflabetic.deps.json
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/bin/Debug/net10.0/SubstitutieMonoaflabetic.runtimeconfig.json
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/bin/Debug/net10.0/SubstitutieMonoaflabetic.dll
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/bin/Debug/net10.0/SubstitutieMonoaflabetic.pdb
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/obj/Debug/net10.0/SubstitutieMonoaflabetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/obj/Debug/net10.0/SubstitutieMonoaflabetic.AssemblyInfoInputs.cache
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/obj/Debug/net10.0/SubstitutieMonoaflabetic.AssemblyInfo.cs
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/obj/Debug/net10.0/SubstitutieMonoaflabetic.csproj.CoreCompileInputs.cache
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/obj/Debug/net10.0/SubstitutieMonoaflabetic.dll
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/obj/Debug/net10.0/refint/SubstitutieMonoaflabetic.dll
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/obj/Debug/net10.0/SubstitutieMonoaflabetic.pdb
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/obj/Debug/net10.0/SubstitutieMonoaflabetic.genruntimeconfig.cache
+/Users/sergio/Criptografie/SubstitutieMonoaflabetic/obj/Debug/net10.0/ref/SubstitutieMonoaflabetic.dll
