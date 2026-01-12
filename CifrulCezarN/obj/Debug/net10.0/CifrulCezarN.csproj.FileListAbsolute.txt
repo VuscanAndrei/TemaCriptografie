@@ -1,0 +1,14 @@
+/Users/sergio/Criptografie/CifrulCezarN/bin/Debug/net10.0/CifrulCezarN
+/Users/sergio/Criptografie/CifrulCezarN/bin/Debug/net10.0/CifrulCezarN.deps.json
+/Users/sergio/Criptografie/CifrulCezarN/bin/Debug/net10.0/CifrulCezarN.runtimeconfig.json
+/Users/sergio/Criptografie/CifrulCezarN/bin/Debug/net10.0/CifrulCezarN.dll
+/Users/sergio/Criptografie/CifrulCezarN/bin/Debug/net10.0/CifrulCezarN.pdb
+/Users/sergio/Criptografie/CifrulCezarN/obj/Debug/net10.0/CifrulCezarN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Criptografie/CifrulCezarN/obj/Debug/net10.0/CifrulCezarN.AssemblyInfoInputs.cache
+/Users/sergio/Criptografie/CifrulCezarN/obj/Debug/net10.0/CifrulCezarN.AssemblyInfo.cs
+/Users/sergio/Criptografie/CifrulCezarN/obj/Debug/net10.0/CifrulCezarN.csproj.CoreCompileInputs.cache
+/Users/sergio/Criptografie/CifrulCezarN/obj/Debug/net10.0/CifrulCezarN.dll
+/Users/sergio/Criptografie/CifrulCezarN/obj/Debug/net10.0/refint/CifrulCezarN.dll
+/Users/sergio/Criptografie/CifrulCezarN/obj/Debug/net10.0/CifrulCezarN.pdb
+/Users/sergio/Criptografie/CifrulCezarN/obj/Debug/net10.0/CifrulCezarN.genruntimeconfig.cache
+/Users/sergio/Criptografie/CifrulCezarN/obj/Debug/net10.0/ref/CifrulCezarN.dll
